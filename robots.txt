@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://janiclien5-cmyk.github.io/sitemap.xml
